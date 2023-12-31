@@ -1,0 +1,9 @@
+인덴팅은 html에서 필수가 아니다.
+document object model
+자바스크립트는 돔트리를 수정할 수 있게 한다.
+
+specificity
+1. inline
+2. id
+3. class
+4. type
